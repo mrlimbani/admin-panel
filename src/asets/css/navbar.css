@@ -1,0 +1,30 @@
+h6{
+margin-left: 16px;
+font-size: 14px;
+margin-top: 4px;
+}
+.subDetails:hover{
+    color:purple
+}
+.text-end{
+margin-left: 220px;
+}
+.notify1{
+   font-size: 22px;
+   color: purple;
+   margin-top: 15px;
+   
+}
+.notify2{
+    font-size: 22px;
+    color: green;
+    margin-top: 12px;
+}
+.notify3{
+    font-size: 22px;
+    color: red;
+    margin-top: 12px;
+
+}
+
+

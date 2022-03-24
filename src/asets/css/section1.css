@@ -1,0 +1,28 @@
+
+.years{
+    text-align: center;
+}
+.fw-bold{
+    font-size: 28px;
+    font-family: 'Sora', sans-serif;
+}
+.years{
+    font-size: 45px;
+    color: gray;
+}
+.cardEdit{
+    width: 18rem;
+    height: 14rem;
+}
+.progress-media{
+    width: 35rem;
+    height: 15rem;
+}
+.progress{
+    margin-top: 85px;
+}
+.profit{
+    width: 26rem;
+    height: 31rem;
+}
+
